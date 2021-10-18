@@ -10,7 +10,7 @@ import time
 import sys
 
 from absl import app, flags
-from tensorflow.keras import optimizers
+#from tensorflow.keras import optimizers
 
 from core.utils import decode_cfg, load_weights
 from core.dataset import Dataset
