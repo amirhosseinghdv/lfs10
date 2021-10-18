@@ -1,1 +1,1 @@
-python pip install scikit-learn
+py pip install scikit-learn
