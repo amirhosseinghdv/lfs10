@@ -1,2 +1,1 @@
-python pip install pip==21.3
 pip install scikit-learn
